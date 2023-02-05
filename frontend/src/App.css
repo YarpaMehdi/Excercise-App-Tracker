@@ -1,0 +1,176 @@
+.signup_form img {
+    height: 100vh;
+    object-fit: cover;
+}
+
+.signup_form .row {
+    align-items: center;
+}
+
+.form_box h3 {
+    font-size: 25px;
+    font-weight: 500;
+    text-transform: uppercase;
+    text-align: center;
+}
+
+.form_box input {
+    width: 100%;
+    margin: 0;
+    display: block;
+    border: 1px solid #000;
+    border-radius: 5px;
+    padding: 10px 10px;
+}
+
+.form_box label {
+    font-size: 18px;
+    margin: 20px 0;
+}
+.signup_form img {
+    width: 100%;
+}
+
+.signup_form {
+    height: 100vh;
+    overflow: hidden;
+}
+
+.signup_form .container-fluid {
+    padding: 0;
+    overflow: hidden;
+}
+
+.form_box {
+    padding: 0 100px;
+}
+
+.form_box button {width: 100%;margin-top: 40px;background: #44a4e0;border: 1px solid #44a4e0;padding: 10px 0;font-size: 18px;color: #fff;transition: linear 0.3s;}
+
+.form_box button:hover {
+    background: transparent;
+    transition: linear 0.3s;
+    color: #000;
+}
+
+.form_box a {
+    text-align: right;
+    display: block;
+    margin-top: 20px;
+    text-decoration: none;
+    color: #ccc;
+}
+
+
+.card_box {
+    max-width: 500px;
+    margin: 50px auto 0 auto;
+}
+
+.field_box {
+    display: flex;
+    justify-content: space-between;
+}
+
+.field_box input,.field_box select {
+    width: 70%;
+    border: 0;
+    padding: 10px 10px;
+}
+
+.field_box label {
+    font-size: 18px;
+    padding: 10px 0;
+    font-weight: 700;
+}
+
+.field_box {
+    margin-bottom: 15px;
+    border-bottom: 1px solid #000;
+}
+
+button.btn.btn-primary {
+    margin: 10px 0;
+    width: 100%;
+}
+
+.card_box {
+    max-width: 500px;
+    margin: 50px auto 0 auto;
+}
+
+.field_box {
+    display: flex;
+    justify-content: space-between;
+}
+
+.field_box input,.field_box select {
+    width: 70%;
+    border: 0;
+    padding: 10px 10px;
+}
+
+.field_box label {
+    font-size: 18px;
+    padding: 10px 0;
+}
+
+.field_box {
+    margin-bottom: 15px;
+    border-bottom: 1px solid #000;
+}
+
+button.btn.btn-primary {
+    margin: 10px 0;
+    width: 100%;
+}
+
+.left_header {
+    display: flex;
+    align-items: center;
+}
+
+ul.menu li {
+    display: inline-block;
+    list-style: none;
+}
+
+ul.menu li a {
+    display: flex;
+    padding: 10px 30px;
+    text-decoration: none;
+    color: #fff;
+    background: #0d6efd;
+    margin: 0 20px;
+    border: 2px solid #0d6efd;
+    transition: linear 0.3s;
+}
+
+ul.menu li a:hover {
+    background: transparent;
+    color: #000;
+    transition: linear 0.3s;
+}
+
+ul.menu {
+    margin: 0;
+    padding: 0;
+}
+
+.brand_logo {
+    margin-right: 50px;
+}
+
+.brand_logo a {
+    font-size: 40px;
+    text-transform: uppercase;
+}
+
+a {
+    text-decoration: none;
+    color: #000;
+}
+
+header {
+    padding: 20px 0;
+}
